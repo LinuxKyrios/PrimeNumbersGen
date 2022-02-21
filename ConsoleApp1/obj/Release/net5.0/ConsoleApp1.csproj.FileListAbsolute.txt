@@ -1,0 +1,16 @@
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1.deps.json
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1.runtimeconfig.json
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1.runtimeconfig.dev.json
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1.dll
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/bin/Release/net5.0/ref/ConsoleApp1.dll
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/bin/Release/net5.0/ConsoleApp1.pdb
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.csproj.AssemblyReference.cache
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.AssemblyInfo.cs
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.dll
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/obj/Release/net5.0/ref/ConsoleApp1.dll
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.pdb
+/home/linuxkyrios/IDE/Rider/Algorytmy/Projekt2/ConsoleApp1/ConsoleApp1/obj/Release/net5.0/ConsoleApp1.genruntimeconfig.cache
